@@ -1,0 +1,38 @@
+----- 1 Data Leverager information -----
+
+----------------------------------------
+
+----- Total Sales -----
+
+----- January Total Sales = 14642063 ------
+
+----- February Total Sales = 13608808 ------
+
+----- March Total Sales = 15011308 -----
+
+
+----- Total Quantity -----
+
+----- January Total Quantity = 550 -----
+
+----- February Total Quantity = 546 -----
+
+----- March Total Quantity = 580 -----
+
+
+----- Highst Sales Of Month -----
+
+----- March = 15011308 ------
+
+
+------ Lowest Sales Of Month -----
+
+----- February = 13608808 ------
+
+----- Highst Person Employee Department -----
+
+----- Finance -----
+
+----- Lowest Person Employee Department -----
+
+----- Operations -----
